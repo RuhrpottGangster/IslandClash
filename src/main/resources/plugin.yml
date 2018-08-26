@@ -1,0 +1,20 @@
+name: IslandClash
+author: SuperKlug'
+version: 1.0-SNAPSHOT
+main: de.superklug.islandclash.IslandClash
+
+commands:
+    islandclash:
+        description: Commands for the IslandClash Game
+        aliases: [is]
+    switchmap:
+        description: Teleports you in an other world
+        aliases: [switchworld]
+    fix:
+        description: Refreshes you for all other players
+    top:
+        description: Shows you the 10 best players
+        aliases: [top10]
+    stats:
+        description: Shows your the stats of you or other players
+        aliases: [statistics, statistiken]
